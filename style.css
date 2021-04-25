@@ -1,0 +1,55 @@
+.bg-car{
+    background-color: #feeae9;
+    padding: 10px 50px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+.buy-now-button{
+   background-image: linear-gradient(to bottom,#FF569A 0%,#FF1772 100% );
+   border: none;
+   color: white;
+   padding: 10px 20px;
+   margin-top: 20px;
+   border-radius: 10px;
+}
+.price{
+    color: #FF1772;
+    
+}
+.watch, .shoesb, .bag{
+    color: white;
+    padding: 10px 40px;
+    margin-top: 120px;
+    border-radius: 10px;
+}
+.watch{
+    background-image: linear-gradient(to left,#ffc353 0%,#FFA500 100% );
+
+}
+.bag{
+    background-image: linear-gradient(to left,#FF569A 0%,#FF1772 100% );
+}
+.shoesb{
+    background-image: linear-gradient(to left,#5858f6 0%,#0000FF 100% );
+}
+.catagory img{
+    width: 100px;
+}
+.card{
+    border: none;
+    margin-top: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.text{
+    margin-top: 120px;
+}
+.bagpack{
+    margin-top: 100px;
+}
+#contackus{
+    height: 300px;
+}
+footer{
+    text-align: center;
+    margin-top: 130px;
+}
